@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+
+    <title>Document</title>
+</head>
+<body>
+
+    <section class="text-gray-400 body-font bg-gray-900">
+        <div class="container px-5 py-24 mx-auto">
+          <div class="flex flex-wrap w-full mb-20">
+            <div class="lg:w-1/2 w-full mb-6 lg:mb-0">
+              <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-white">Some Popular Games</h1>
+              <div class="h-1 w-20 bg-red-500 rounded"></div>
+            </div>
+            
+          </div>
+          <div class="flex flex-wrap -m-4">
+            <div class="xl:w-1/4 md:w-1/2 p-4">
+              <div class="bg-gray-800 bg-opacity-40 p-6 rounded-lg">
+                <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://store-images.s-microsoft.com/image/apps.60323.13774133678237924.758ba261-9ad2-4b6c-aae4-54f1307835d0.5c6bbf61-af87-400b-ae20-330496c5a9ac?q=90&w=336&h=200" alt="content">
+                <h3 class="tracking-widest text-red-400 text-xs font-medium title-font">Mojang Studios</h3>
+                <h2 class="text-lg text-white font-medium title-font mb-4">Minecraft</h2>
+                <p class="leading-relaxed text-base">Minecraft is a game where the player uses their imagination to shape the world around them using the resources they find. In the world everything is shaped like a block or a cube, this includes the trees, the dirt, the water and lava, everything</p>
+              </div>
+            </div>
+            <div class="xl:w-1/4 md:w-1/2 p-4">
+              <div class="bg-gray-800 bg-opacity-40 p-6 rounded-lg">
+                <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://images.indianexpress.com/2021/10/Forza-Horizon-5-Mercedes-AMG-ONE.jpg" alt="content">
+                <h3 class="tracking-widest text-red-400 text-xs font-medium title-font">Forza</h3>
+                <h2 class="text-lg text-white font-medium title-font mb-4">Forza Horizon 5</h2>
+                <p class="leading-relaxed text-base">Forza Horizon 5 is a racing video game set in an open world environment based in a fictional representation of Mexico. The game has the largest map in the entire Forza Horizon series, , while also having the highest point in the Horizon series.</p>
+              </div>
+            </div>
+            <div class="xl:w-1/4 md:w-1/2 p-4">
+              <div class="bg-gray-800 bg-opacity-40 p-6 rounded-lg">
+                <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://images.squarespace-cdn.com/content/v1/58af450eb3db2b0582612f1d/1497928929587-1TRIFOH1Z12MPP68YJNV/clash_of_clans_builder_village_-_Google_Search.jpg?format=1500w" alt="content">
+                <h3 class="tracking-widest text-red-400 text-xs font-medium title-font">Supercell</h3>
+                <h2 class="text-lg text-white font-medium title-font mb-4">Clash of Clans</h2>
+                <p class="leading-relaxed text-base">Clash of Clans is an online multiplayer game in which players, train troops, and attack other players to earn resources. There are four currencies or resources in the game. Gold and elixir can be used to build and upgrade defenses and traps.</p>
+              </div>
+            </div>
+            <div class="xl:w-1/4 md:w-1/2 p-4">
+              <div class="bg-gray-800 bg-opacity-40 p-6 rounded-lg">
+                <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://mobilegamershq.com/wp-content/uploads/2020/05/call-of-duty-mobile.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-1" alt="content">
+                <h3 class="tracking-widest text-red-400 text-xs font-medium title-font">Infinity ward</h3>
+                <h2 class="text-lg text-white font-medium title-font mb-4">Call of Duty</h2>
+                <p class="leading-relaxed text-base"> Call of Duty is one of the most popular games out and many people love to play. It is competitive, it has online play, and you can also create a clan or group to play against other people around the world. lineit also has zombies features as well.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      
+    
+</body>
+</html>
